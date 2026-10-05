@@ -2,7 +2,7 @@
 Logic Building & Problem Solving
 This repository contains my programming practice, logic-building exercises, and problem-solving solutions.
 
-##**Languages**
+##Languages
 
 C
 
