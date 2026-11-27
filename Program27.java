@@ -1,6 +1,6 @@
+//Display Each Digit of a Number Using Modulus and Division
 import java.util.Scanner;
 
-//Display Each Digit of a Number Using Modulus and Division
 class Program27
 {
     public static void main(String A[])
